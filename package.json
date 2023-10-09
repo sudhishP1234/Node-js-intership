@@ -1,0 +1,22 @@
+{
+  "name": "node-js-intership",
+  "version": "1.0.0",
+  "description": "code step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudhishP1234/Node-js-intership.git"
+  },
+  "author": "sudhish pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudhishP1234/Node-js-intership/issues"
+  },
+  "homepage": "https://github.com/sudhishP1234/Node-js-intership#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
